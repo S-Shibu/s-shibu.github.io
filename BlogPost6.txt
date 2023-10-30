@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+
+
+<style> ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+li a {
+  display: block;
+} </style>
+
+
+
+<ul>
+  <li><p><a href="BlogPost1.html">Blog Post #1</a></p></li>
+  <li><p><a href="BlogPost2.html">Blog Post #2</a></p></li>
+  <li><p><a href="BlogPost3.html">Blog Post #3</a></p></li>
+  <li><p><a href="BlogPost4.html">Blog Post #4</a></p></li>
+  <li><p><a href="BlogPost5.html">Blog Post #5</a></p></li>
+  <li><p><a href="BlogPost6.html">Blog Post #6  <i><b>(You are HERE)</b></i></a></p></li>
+</ul>
+
+
+<body>
+
+<p>Toxicity in gaming refers to the behavior of certain players who derive pleasure from making others' experiences worse. Such players exhibit a lack of sportsmanship, often acting arrogant and confident when they win, while actively trying to make others feel inferior. This toxic behavior can completely ruin one's enjoyment of a game, and may even deter regular players from joining due to the prevalence of such players.
+
+It is important to identify and acknowledge toxic conduct in video games to report toxic players and raise awareness. By doing so, we can create an environment for gamers and communities that thrive and attract new players. Putting an end to such behavior in video games promotes an inclusive community and the growth of such games.
+
+Ways to combat this toxicity are spreading awareness of the damage toxicity does for the community surrounding certain video games, punishing players who exhibit this toxic behavior, and exposing developers and publishers who allow this conduct to continue.
+</p>
+
+<p><a href="https://create.unity.com/toxicity-in-multiplayer-games-report">Toxicity In Gaming - Unity</a></p>
+</body>
+
+</html>

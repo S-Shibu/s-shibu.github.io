@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+
+
+<style> ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+li a {
+  display: block;
+} </style>
+
+
+
+<ul>
+  <li><p><a href="BlogPost1.html">Blog Post #1</a></li></p>
+  <li><p><a href="BlogPost2.html">Blog Post #2  <i><b>(You are HERE)</b></i></a></li></p>
+  <li><p><a href="BlogPost3.html">Blog Post #3</a></li></p>
+  <li><p><a href="about.asp">About</a></li></p>
+</ul>
+
+
+<body>
+<p><a href="https://www.ign.com/articles/2015/03/10/hotline-miami-2-wrong-number-review">Hotline Miami Review - IGN </a><i>(Not accessible on school device, accessed on personal device)</i></p>
+
+<p>I agree with the opinion presented in the article. Though a lot of people see the sequel to Hotline Miami as “overly edgy” and “unneccesary” partially due to its beginning scene, I agree with the article in the view that Hotline Miami 2: Wrong Number is a more fleshed out and refined version of the original. Though its story may not be as deep or concatenated as the original, it presents a fine conclusion to the overarching plot of the series, and fine-tunes mechanics to make the game more enjoyable and satisfying to play. It improves upon the lock-on system, which a lot of players were unaware existed in the original game. The game is plot driven, and expands upon the themes already presented in the original. It also improves by giving each of its dozen playable characters their own personality and changes their mechanics to balance them out. At the end of the article, the verdict is that Hotline Miami 2: Wrong Number is a fitting and worthy sequel to an already legendary and revered game, which I wholeheartedly agree with.</p>
+
+</body>
+
+</html>

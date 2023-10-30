@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<style> ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+li a {
+  display: block;
+} </style>
+
+<body>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
+</ul>
+
+
+
+<u><h1>Blog Post #1</h1></u>
+
+<h2>What makes video games so enticing and entertaining?</h2>
+
+<p>Video games create a sense of challenge and excitement that when completed or achieved send a dopamine rush to your brain and makes you want to keep playing. This is what makes video games so addicting and what video game developers generate for as long as possible so you keep playing their game, putting time, money, and effort into it.</p>
+
+<h2>What game did you play most recently?</h2>
+
+<p>Over the summer I tried to play a lot of the classics such as both mirrors edge games, the batman arkham games, hotline miami 1 & 2, katana zero, and a lot of co-op games such as fortnite, minecraft, terraria, and overwatch.</p>
+
+<h2>What game did you play most recently?</h2>
+
+<p>Over the summer I tried to play a lot of the classics such as both mirrors edge games, the batman arkham games, hotline miami 1 & 2, katana zero, and a lot of co-op games such as fortnite, minecraft, terraria, and overwatch</p>
+
+<br>
+
+<h2>The Article: <a href="https://gamequitters.com/15-reasons-people-play-video-games/">GameQuitters</a></h2>
+
+<p>The article explains the various reasons why people enjoy video games and how they work which makes you want to keep playing. The reasons include Novelty, a desire for Mastery, Internal & External exploration, Competition, Risk, and safety for failure. It also shows some methods and resources gamers use for gaming like DIscord, and warns against predators which may want to exploit young gamers through the online space.</p>
+
+</body>
+</html>
